@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B2B2C1E26792E3D00ED4C9A /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B2B2C1D26792E3D00ED4C9A /* FruitRowView.swift */; };
 		2B615C812674004F00C98475 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B615C802674004F00C98475 /* FructusApp.swift */; };
 		2B615C832674004F00C98475 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B615C822674004F00C98475 /* ContentView.swift */; };
 		2B615C852674005000C98475 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B615C842674005000C98475 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B2B2C1D26792E3D00ED4C9A /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 		2B615C7D2674004F00C98475 /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B615C802674004F00C98475 /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
 		2B615C822674004F00C98475 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				2B615C912674056300C98475 /* FruitCardView.swift */,
 				2B615C932674EDF500C98475 /* StartButtonView.swift */,
+				2B2B2C1D26792E3D00ED4C9A /* FruitRowView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				2BD30F582677CC220074F6CC /* FruitData.swift in Sources */,
 				2B615C922674056300C98475 /* FruitCardView.swift in Sources */,
+				2B2B2C1E26792E3D00ED4C9A /* FruitRowView.swift in Sources */,
 				2B615C942674EDF500C98475 /* StartButtonView.swift in Sources */,
 				2B615C832674004F00C98475 /* ContentView.swift in Sources */,
 				2B615C962674F0BD00C98475 /* OnboardingView.swift in Sources */,
