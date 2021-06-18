@@ -17,3 +17,7 @@ To run the simulator, you will need Xcode, I use v12.5
 ## Demo
 
 ![](.github/images/Sim1.png) ![](.github/images/Sim2.png) ![](.github/images/Sim3.png) ![](.github/images/Sim4.png) ![](.github/images/Sim5.png) ![](.github/images/Sim6.png)
+
+## Footnote
+
+This app is apart of a course purchased on Udemy which you can find here [SwiftUI Masterclass](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
